@@ -1,12 +1,12 @@
 {
     "error": false,
-    "version": "twelve",
-    "filename": "PixelExperience_laurel_sprout-12.1-20220406-2156-UNOFFICIAL.zip",
-    "datetime": 1649282160,
-    "size": 1543448146,
-    "url": "https://downloads.royalturd.workers.dev/0:/PixelExperience_laurel_sprout-12.1-20220406-2156-UNOFFICIAL.zip",
-    "filehash": "5dc2e5e311e87fd3d14ed6b06f85bec6",
-    "id": "5dc2e5e311e87fd3d14ed6b06f85bec6",
+    "version": "twelve_plus",
+    "filename": "PixelExperience_Plus_laurel_sprout-12.1-20220424-1516-UNOFFICIAL.zip",
+    "datetime": 1650813360,
+    "size": 1547971046,
+    "url": "https://downloads.royalturd.workers.dev/0:/PixelExperience_Plus_laurel_sprout-12.1-20220424-1516-UNOFFICIAL.zip",
+    "filehash": "f66e1338992e207f6bf8baeadc07584a",
+    "id": "f66e1338992e207f6bf8baeadc07584a",
     "maintainers": [
         {
             "main_maintainer": false,
