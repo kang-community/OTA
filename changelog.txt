@@ -1,1 +1,14 @@
-k
+Changelog 26/04/22 ->
+
+    LiveDisplay (color profile, display mode, reading mode, color calibration)
+    Hide Notch support.
+    StatusBar shortcuts
+    Rotation settings
+    Lock screen display (media cover, music visualizer, power menu)
+    Per-app volume settings
+    Increasing ring volume
+    Different gestures
+    Power and Volume button customisations
+    Network traffic monitor
+    Brightness (brightness slider, auto brightness, brightness control)
+    Quick settings (quick pulldown, title visibility, vibrate on touch, rows, columns)
