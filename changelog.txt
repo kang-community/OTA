@@ -1,1 +1,8 @@
-lorem ipsum
+Changelog 26/04/22 ->
+
+    April security patch
+    Fixed charging animation not appearing
+    Fixed unlock sound playing repeatedly
+    Others fixes
+    Added Saturated color mode
+    Added Pitch black Theme
